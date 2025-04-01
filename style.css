@@ -11,4 +11,18 @@
 }
 .vitaminai{
     color: gray;
+}button {
+    background-color: gray;
+    color: black;
+    border: solid black 2px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    text-align: center;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
 }  
