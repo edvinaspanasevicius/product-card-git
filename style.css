@@ -1,0 +1,8 @@
+.kortele{
+    display: grid;
+    grid-template-columns: repeat(1, 15rem);
+    grid-template-rows: repeat(1, 20rem);
+    align-items: start;
+    justify-content: center;
+    border: solid black 2px;gap: inherit;
+}    
